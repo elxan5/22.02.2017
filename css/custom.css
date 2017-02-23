@@ -1,0 +1,73 @@
+.myFirst{
+	text-align: center;
+	color:#666;
+	border:none;
+	padding-bottom: 80px;
+}
+
+.menu >.col12 >ul >li{
+	display: inline-block;
+    line-height: 72px;
+    padding: 45px 35px 0px 0px;
+ }
+.menu>.col12 >ul>li>a{
+	color:black;
+	
+     }
+.menu>.col12  >ul>li a:hover,.menu>.col12  >ul >li a:active,
+.menu>.col12  >ul >li .active a:link,.menu>.col12  >ul >li .active a:visited{
+color:#ddd;
+
+    
+     }
+
+	padding: 60px 0;
+}
+#text >h3{
+	padding: 5px 20px;
+	font-size: 1em;
+	color:#666;
+}
+
+
+
+#text{
+	text-align: center;
+	padding:40px 0;
+	border-bottom: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+}
+.feat >.fa{
+	float: right;
+}
+
+.feat >h1{
+	float: left;
+}
+
+.news>.col12 >h1:last-child{
+	float:right;
+}
+
+
+.news>.col6 li{
+	color:#666;
+}
+.apr >.col3{
+	border-radius: 50%;
+	padding: 25px 16px;
+	background: #DDD;
+}
+.apr >.col3 >p{
+	font-size: 0.8em;
+}
+.apr >h1{
+color:#e03e3e;
+
+}
+.apr >i{
+color:#a39696;
+font-style: italic;
+}
+.aprText >p >a{
+	color: #e03e3e;
